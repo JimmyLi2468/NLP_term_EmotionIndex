@@ -12,6 +12,9 @@ http://www.wsj.com/mdc/public/page/2_3047-sp_oneday2006.html
 historical index data
 
 DJ      2006/10/04      11850.61        close
+
 Nasdaq  2006/10/04      2290.95         close
+
 S&P     2006/10/04      1350.22         close
+
 VIX     2006/10/02      11.56           close
