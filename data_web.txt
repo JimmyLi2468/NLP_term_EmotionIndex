@@ -1,0 +1,3 @@
+https://github.com/philipperemy/financial-news-dataset
+https://github.com/Finance-And-ML/News-Article-And-Full-Details-Dataset
+https://github.com/philipperemy/Reuters-full-data-set
